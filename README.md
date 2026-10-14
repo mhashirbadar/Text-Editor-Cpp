@@ -1,6 +1,6 @@
 # Text Editor in C++
 
-A basic line-based text editor built for **CS-218 Data Structures and Algorithms** (Complex Engineering Problem, Fall 2026), Department of Computer and Information Systems Engineering, BS Computer Systems Engineering.
+A basic line based text editor built for **CS-218 Data Structures and Algorithms** (Complex Engineering Problem, Fall 2026), Department of Computer and Information Systems Engineering, BS Computer Systems Engineering.
 
 The focus of the project is not the user interface but the design of data structures and algorithms that store and manipulate text efficiently. All core structures are implemented from scratch rather than taken from the standard library containers.
 
@@ -94,5 +94,5 @@ To be completed after implementation (for example: naive search algorithm, line-
 
 ## Author
 
-Hashir
+Hashir CS-124 Abdul Rehman CS-137
 CS-218 Data Structures and Algorithms, SE Batch 2025
